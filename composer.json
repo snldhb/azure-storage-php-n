@@ -1,5 +1,5 @@
 {
-    "name": "microsoft/azure-storage",
+    "name": "tsnldhb/azure-storage",
     "description": "This project provides a set of PHP client libraries that make it easy to access Microsoft Azure storage APIs.",
     "keywords": [ "php", "azure", "storage", "sdk" ],
     "license": "MIT",
